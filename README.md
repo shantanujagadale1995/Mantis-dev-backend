@@ -1,2 +1,0 @@
-# Mantis-dev-backend
-Backend
