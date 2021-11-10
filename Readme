@@ -1,0 +1,13 @@
+Start Project = npm start
+
+Basic NodeJs Peoject Project with MVC Structure.
+
+initial commmands
+    - imp init 
+    - npm i express 
+    - npm i dotenv 
+    - npm i brcypt 
+    - npm i jsonwebtoken 
+    - npm i nodemon -D 
+
+main inital file - index.js
