@@ -2,9 +2,9 @@
   "name": "mean",
   "version": "1.0.0",
   "description": "Node js peoject with MVC ",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon index.js"
   },
   "author": "Shantanu Jagadale (27th Feb 2021)",
   "license": "ISC",
